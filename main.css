@@ -5,7 +5,8 @@ body {
         background-color: honeydew;
         width: 800px;
         margin-left: calc((100% - 800px) / 2);
-
+        border: 5px solid blue;
+        padding: 100px;
     }
         p {
             font-size: 20px;
