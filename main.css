@@ -7,6 +7,7 @@ body {
         margin-left: calc((100% - 800px) / 2);
         border: 5px solid blue;
         padding: 100px;
+        padding-top: 300px;
     }
         p {
             font-size: 20px;
